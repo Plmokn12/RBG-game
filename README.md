@@ -1,4 +1,5 @@
 # RBG-game
-RGB game
+Interactive RGB game to help with color identification 
 
-This is from Colt Steele's course
+
+based on Colt Steele's project
